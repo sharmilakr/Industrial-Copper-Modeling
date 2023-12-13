@@ -19,7 +19,6 @@ Creating a streamlit page where you can insert each column value and you will ge
 Approach:
 
 Data Understanding: 
-
     Identify the types of variables (continuous, categorical) and their distributions. Some rubbish values are present in ‘Material_Reference’ which starts with ‘00000’ value.
 
 Data Preprocessing:
